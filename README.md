@@ -626,3 +626,7 @@ I'm Sviat from Kyiv. I like sphinxes.
 
 # Hi guys!
 Would be great to join you!
+
+
+# Hi Kottans! 
+My 16-years old cat will help me in the learning. That's true ! 
